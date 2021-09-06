@@ -2,10 +2,10 @@
 This repository is all about the Json based IMS of AI/ML internship.
 
 ## Files
-Record,json
-Adding New products
-Purchasing Products
-Sales Products
+Record,json,
+Adding New products,
+Purchasing Products,
+Sales Products,
 
 
 ### Features
