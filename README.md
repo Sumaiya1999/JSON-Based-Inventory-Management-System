@@ -1,6 +1,10 @@
 # Json-Based-Inventory-Management-System
 This repository is all about the Json based IMS of AI/ML internship.
 
+
+## About the Repository
+This repository is having all the codes used in Json based "Inventory Management System" (Assignment).
+
 ## Files
 Record,json,
 Adding New products,
