@@ -12,4 +12,9 @@ Sales Products,
 1. Add New items into inventory
 2. User can make purchase
 3. Record,json is having
-4. Record update
+4. Record update.
+
+## About Me
+I am Sumaiya pursuing B.tech in Computer Science from NRI Institute of Information Science and Technology. I am interested in Web Devlopment mainly in Frontend. I'm having Knowledge of HTML, CSS, Python.
+
+
